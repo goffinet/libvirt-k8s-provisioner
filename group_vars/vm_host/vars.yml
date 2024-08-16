@@ -20,6 +20,7 @@ python_packages:
   - jsonpatch
   - kubernetes
   - netaddr
+  - passlib
 
 os_packages:
   centos:
